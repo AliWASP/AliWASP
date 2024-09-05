@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AliWASP
+- 👋 Hi, I’m Ali Efekan Erkan
 - 👀 I’m interested in AI
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
