@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AliWASP
-- 👀 I’m interested in Automation
-- 🌱 I’m currently learning C#
+- 👀 I’m interested in AI
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me alieecsbusiness@gmail.com
 - 😄 Pronouns: ...
